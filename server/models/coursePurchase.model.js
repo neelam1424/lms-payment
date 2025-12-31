@@ -1,3 +1,5 @@
+//to have track on course purchases
+
 import mongoose from "mongoose";
 
 const coursePurchaseSchema = new mongoose.Schema({
